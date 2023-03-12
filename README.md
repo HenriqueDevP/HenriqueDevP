@@ -11,6 +11,10 @@ Olá me chamo Henrieque Pontes tenho 18 anos , sou estudante de Análise e desen
 - Projetos Pessoais
 - O que eu utilizo no meu dia a dia como dev
 
+<a href="https://github.com/HenriqueDevP">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Henriquedeval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDevP&layout=compact&langs_count=7&theme=dark"/>
+
 ### O que eu utilizo no Front-end 📑
 
 #### Frameworks Bibliotecas Linguagens
